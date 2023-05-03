@@ -1,0 +1,6 @@
+C:\Users\walfr\Desktop\Veterinaria\Entidades\bin\Debug\Entidades.dll
+C:\Users\walfr\Desktop\Veterinaria\Entidades\bin\Debug\Entidades.pdb
+C:\Users\walfr\Desktop\Veterinaria\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\walfr\Desktop\Veterinaria\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\walfr\Desktop\Veterinaria\Entidades\obj\Debug\Entidades.dll
+C:\Users\walfr\Desktop\Veterinaria\Entidades\obj\Debug\Entidades.pdb
